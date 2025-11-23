@@ -1,2 +1,0 @@
-Name: 张三, Age: 25, Gender: 男, PassType: 成人票
-Name: 李四, Age: 30, Gender: 女, PassType: 成人票
